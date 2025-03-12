@@ -3,8 +3,8 @@ import random
 import pygetwindow as gw
 import pygame
 
-OPEN_SOUNDS = ["trifileVic.wav", "impressive.wav", "malformed.wav", "huddled.wav", "madness.wav", "ritual.wav"]
-CLOSE_SOUNDS = ["onslaught.wav", "overconfidence.wav", "moredust.wav", "sendthis.wav", "executed.wav", "twisted.wav"]
+OPEN_SOUNDS = ["_audio/trifileVic.wav", "_audio/impressive.wav", "_audio/malformed.wav", "_audio/huddled.wav", "_audio/madness.wav", "_audio/ritual.wav"]
+CLOSE_SOUNDS = ["_audio/onslaught.wav", "_audio/overconfidence.wav", "_audio/moredust.wav", "_audio/sendthis.wav", "_audio/executed.wav", "_audio/twisted.wav"]
 
 
 
