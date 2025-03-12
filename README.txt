@@ -39,3 +39,7 @@ When launched the application will prompt you for 3 things
 4: terminating the program:
     - closing the CLI will terminate the program
     - alternatively a keyboard interrupt (CTRL + C) will also terminate the program
+
+CHANGE LOG:
+v0.1.0 - Inital commit to main
+v0.1.1 - neatening up file structure
